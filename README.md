@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tsahoika-Hleb
+- 👋 Hi, I’m Hleb Tsahoika
 - 👀 I’m interested in iOS App Development
 <!---
 - 🌱 I’m currently learning ...
